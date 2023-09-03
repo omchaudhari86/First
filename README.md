@@ -1,3 +1,4 @@
 # First
-This is my first Git Repository
-Authotr - Om Chaudhari
+This is my first Git Repository.
+<br>
+Author - Om Chaudhari
